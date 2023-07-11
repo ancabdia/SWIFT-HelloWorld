@@ -1,14 +1,14 @@
 //
-//  Support_GitHub_HelloWorldTests.swift
-//  Support-GitHub-HelloWorldTests
+//  Soporte_GitHub_HelloWord_ancabdiaTests.swift
+//  Soporte-GitHub-HelloWord-ancabdiaTests
 //
-//  Created by Ignasi Perez-Valls on 10/7/23.
+//  Created by Cabrera Diaz Andrés on 10/7/23.
 //
 
 import XCTest
-@testable import Support_GitHub_HelloWorld
+@testable import Soporte_GitHub_HelloWord_ancabdia
 
-final class Support_GitHub_HelloWorldTests: XCTestCase {
+final class Soporte_GitHub_HelloWord_ancabdiaTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
